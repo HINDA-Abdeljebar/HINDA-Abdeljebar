@@ -1,6 +1,22 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+HINDA+Abdeljebar! ;+and+I'm+a+full-stack+developer" /> 
-</h1>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 <h3 align="center">A passionate full-stack developer with expertise in both front-end and back-end technologies, adept at creating robust and scalable web applications. Eager to contribute innovative solutions and collaborate effectively within development teams.</h3>
 
 - 📫 How to reach me **hindaabdjbbar@gmail.com**
