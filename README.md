@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm HINDA Abdeljebar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 <h3 align="center">A passionate full-stack developer with expertise in both front-end and back-end technologies, adept at creating robust and scalable web applications. Eager to contribute innovative solutions and collaborate effectively within development teams.</h3>
 
 - 📫 How to reach me **hindaabdjbbar@gmail.com**
