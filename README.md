@@ -1,5 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=#ADD8E6
-&center=true&vCenter=true&center=true&vCenter=true&width=1700&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+a+full-stack+developer!">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&center=true&vCenter=true&center=true&vCenter=true&width=1700&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+a+full-stack+developer!">
 
 <h3 align="center">A passionate full-stack developer with expertise in both front-end and back-end technologies, adept at creating robust and scalable web applications. Eager to contribute innovative solutions and collaborate effectively within development teams.</h3>
 
